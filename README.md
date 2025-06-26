@@ -1,8 +1,4 @@
-Here’s a professional and attractive `README.md` for your GitHub repository:
 
----
-
-````markdown
 # 🌐 Full Stack Web Development (Delta Batch) — Apna College
 
 **Instructor**: Shradha Khapra Mam  
